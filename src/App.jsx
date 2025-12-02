@@ -101,8 +101,32 @@ const projects = [
     category: "network",
     // ⚠️ 请将您的新项目截图重命名为 project_cloudnet.png 并放入 public/images/ 目录
     image: "./images/cu-cloud-net-ai.png",
-    link: "https://uglyghost.github.io/cu-cloud-net-ai/", // 🟢 请在此处填入实际的项目演示链接
+    link: "https://uglyghost.github.io/cu-cloud-net-ai/",
     color: "violet"
+  },
+  {
+    id: 8,
+    title: "双中心高可靠网络服务分系统",
+    subtitle: "SatNet Core",
+    description: "构建雄安与重庆异地双运控中心，解决卫星互联网核心枢纽单点故障风险。利用DDS实时数据分发技术，实现数据透明分发与用户无感切换，保障宽带、导航等业务的长期在线与异地容灾。",
+    tags: ["卫星互联网", "异地容灾", "DDS", "双中心"],
+    category: "network",
+    // ⚠️ 请将您的新项目截图重命名为 project_satnet.png 并放入 public/images/ 目录
+    image: "./images/project_satnet.png",
+    link: "https://uglyghost.github.io/satnet-core",
+    color: "sky"
+  },
+  {
+    id: 9,
+    title: "基于轻量级语言模型的生成式任务响应长度预测",
+    subtitle: "LIPER: Prompt-Enhanced Response Length Perception",
+    description: "面向异构计算资源的生成式任务智能调度框架。LIPER 通过两阶段预测机制加速 LLM 推理，利用轻量级微调模型结合自定义提示词，解决自回归解码执行时间不可预测的挑战，在保持计算效率的同时实现高精度的响应长度预测。",
+    tags: ["LLM推理", "任务调度", "长度预测", "异构计算"],
+    category: "ai",
+    // ⚠️ 请将您的新项目截图重命名为 project_liper.png 并放入 public/images/ 目录
+    image: "./images/project_liper.png",
+    link: "https://uglyghost.github.io/liper-scheduler-viz/",
+    color: "rose"
   }
 ];
 
