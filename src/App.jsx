@@ -89,7 +89,7 @@ const projects = [
     category: "ai",
     // ⚠️ 请将您的新项目截图重命名为 project_xiaoq.png 并放入 public/images/ 目录
     image: "./images/project_xiaoq.png",
-    link: "https://uglyghost.github.io/xiaoq-quill/", // 🟢 请在此处填入实际的项目演示链接
+    link: "https://uglyghost.github.io/xiaoq-quill/",
     color: "indigo"
   }
 ];
