@@ -55,6 +55,18 @@ const projects = [
     image: "./images/project_interview.png",
     link: "https://bupt-agent.github.io/aiibp_web/",
     color: "purple"
+  },
+  {
+    id: 4,
+    title: "变电站具身智能与自主导航",
+    subtitle: "SmartGrid AI",
+    description: "建立变电站复合环境下的空间智能模型，实现“感知-决策-行为”的持续优化。基于 VLN 与 NMIT 机制，打造下一代电力巡检具身智能体。",
+    tags: ["具身智能", "空间感知", "电力巡检", "Smart Grid"],
+    category: "ai",
+    // ⚠️ 请将您的新项目截图重命名为 project_smartgrid.png 并放入 public/images/ 目录
+    image: "./images/project_smartgrid.png",
+    link: "https://uglyghost.github.io/smart-grid-ai",
+    color: "emerald"
   }
 ];
 
