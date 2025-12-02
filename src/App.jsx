@@ -67,6 +67,18 @@ const projects = [
     image: "./images/project_smartgrid.png",
     link: "https://uglyghost.github.io/smart-grid-ai",
     color: "emerald"
+  },
+  {
+    id: 5,
+    title: "适老化智能家庭健康监测仪",
+    subtitle: "Smart Guardian Health Monitor",
+    description: "数据-知识-思维一体化系统。不仅是监测，更是私人健康顾问。结合AI深度解读与批判性思维引导，赋能银发族主动管理健康，远离健康谣言，实现全链路智能健康守护。",
+    tags: ["智慧医疗", "适老化", "AI Agent", "健康监测"],
+    category: "ai",
+    // ⚠️ 请将您的新项目截图重命名为 project_health.png 并放入 public/images/ 目录
+    image: "./images/project_health.png",
+    link: "https://uglyghost.github.io/health-monitor/",
+    color: "teal"
   }
 ];
 
