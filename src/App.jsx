@@ -64,21 +64,21 @@ const projects = [
     tags: ["具身智能", "空间感知", "电力巡检", "Smart Grid"],
     category: "ai",
     // ⚠️ 请将您的新项目截图重命名为 project_smartgrid.png 并放入 public/images/ 目录
-    image: "./images/project_smartgrid.png",
-    link: "https://uglyghost.github.io/smart-grid-ai",
-    color: "emerald"
-  },
-  {
-    id: 5,
-    title: "适老化智能家庭健康监测仪",
-    subtitle: "Smart Guardian Health Monitor",
-    description: "数据-知识-思维一体化系统。不仅是监测，更是私人健康顾问。结合AI深度解读与批判性思维引导，赋能银发族主动管理健康，远离健康谣言，实现全链路智能健康守护。",
-    tags: ["智慧医疗", "适老化", "AI Agent", "健康监测"],
-    category: "ai",
-    // ⚠️ 请将您的新项目截图重命名为 project_health.png 并放入 public/images/ 目录
     image: "./images/project_health.png",
     link: "https://uglyghost.github.io/health-monitor/",
     color: "teal"
+  },
+  {
+    id: 6,
+    title: "“小Q邮”智能交互校园助手",
+    subtitle: "Xiao Q - Smart Campus Companion",
+    description: "懂心理的北邮“学长姐”，提供7x24小时情感陪伴。融合荣格心理学与MBTI理论，不仅提供一站式校园信息导航，更打造专属的MBTI疗愈空间，做你最靠谱的校园向导与心灵伴侣。",
+    tags: ["校园助手", "情感陪伴", "MBTI", "AI Agent"],
+    category: "ai",
+    // ⚠️ 请将您的新项目截图重命名为 project_xiaoq.png 并放入 public/images/ 目录
+    image: "./images/project_xiaoq.png",
+    link: "https://uglyghost.github.io/xiaoq-quill/", // 🟢 请在此处填入实际的项目演示链接
+    color: "indigo"
   }
 ];
 
