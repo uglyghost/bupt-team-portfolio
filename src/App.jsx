@@ -91,6 +91,18 @@ const projects = [
     image: "./images/project_xiaoq.png",
     link: "https://uglyghost.github.io/xiaoq-quill/",
     color: "indigo"
+  },
+  {
+    id: 7,
+    title: "重构云原生底座性能",
+    subtitle: "CU-Cloud NetAI",
+    description: "融合 eBPF/XDP 内核旁路、RDMA 零拷贝与 AI 强化学习调度。打造高吞吐、低延迟、智能化的下一代联通云基础设施。",
+    tags: ["云原生", "eBPF/XDP", "RDMA", "AI调度"],
+    category: "network",
+    // ⚠️ 请将您的新项目截图重命名为 project_cloudnet.png 并放入 public/images/ 目录
+    image: "./images/cu-cloud-net-ai.png",
+    link: "https://uglyghost.github.io/cu-cloud-net-ai/", // 🟢 请在此处填入实际的项目演示链接
+    color: "violet"
   }
 ];
 
