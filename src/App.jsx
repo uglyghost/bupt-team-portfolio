@@ -179,7 +179,7 @@ const teamMembers = [
       { label: "省部级奖项", value: "3+" },
       { label: "主持项目", value: "多项" }
     ],
-    badges: ["IEEE Track Chair", "Frontiers 编委"],
+    badges: ["电子学会青年托举人才", "IEEE Track Chair", "Frontiers 编委"],
     intro: "长期从事未来互联网传输机制、算网融合、边缘计算等研究。主持国家自然基金面上项目、青年基金及国家重点研发计划子课题。发表JSAC, INFOCOM, TMC等顶会顶刊论文30余篇。获中国电子学会自然科学二等奖、吴文俊人工智能技术发明二等奖等荣誉。",
     contact: {
       email: "muwang@bupt.edu.cn",
