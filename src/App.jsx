@@ -127,6 +127,18 @@ const projects = [
     image: "./images/project_liper.png",
     link: "https://uglyghost.github.io/liper-scheduler-viz/",
     color: "rose"
+  },
+  {
+    id: 10,
+    title: "大模型原理深度解析与可视化",
+    subtitle: "大模型相关核心技术综述",
+    description: "一站式交互展示：从RAG检索一致性到PD推理加速，再到LoRA微调与大模型强化训练优化。",
+    tags: ["RAG", "GraphRAG", "PD解耦", "LoRA微调", "强化训练"],
+    category: "ai",
+    // ⚠️ 请将您的新项目截图重命名为 project_liper.png 并放入 public/images/ 目录
+    image: "./images/project_llm.png",
+    link: "https://uglyghost.github.io/industrial-llm-demo/",
+    color: "rose"
   }
 ];
 
